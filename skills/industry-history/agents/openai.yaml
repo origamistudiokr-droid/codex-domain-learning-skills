@@ -1,0 +1,4 @@
+interface:
+  display_name: "Industry History"
+  short_description: "Explain market structure origins"
+  default_prompt: "Use $industry-history to explain why the subscription model became common in SaaS."

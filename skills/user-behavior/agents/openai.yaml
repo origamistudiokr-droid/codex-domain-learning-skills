@@ -1,0 +1,4 @@
+interface:
+  display_name: "User Behavior"
+  short_description: "Analyze domain behavior loops"
+  default_prompt: "Use $user-behavior to explain user behavior patterns in online education."

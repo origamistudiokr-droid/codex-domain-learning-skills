@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stakeholder Map"
+  short_description: "Map domain actors and conflicts"
+  default_prompt: "Use $stakeholder-map to analyze stakeholders in the food delivery domain."

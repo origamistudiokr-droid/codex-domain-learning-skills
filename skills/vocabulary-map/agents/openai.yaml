@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vocabulary Map"
+  short_description: "Decode domain terms and concepts"
+  default_prompt: "Use $vocabulary-map to explain key terms in the fintech domain."

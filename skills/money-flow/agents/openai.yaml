@@ -1,0 +1,4 @@
+interface:
+  display_name: "Money Flow"
+  short_description: "Trace domain revenue and costs"
+  default_prompt: "Use $money-flow to analyze how money moves in a marketplace domain."

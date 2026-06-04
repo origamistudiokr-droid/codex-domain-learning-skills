@@ -1,0 +1,4 @@
+interface:
+  display_name: "Metrics Map"
+  short_description: "Find domain success metrics"
+  default_prompt: "Use $metrics-map to identify the key metrics for a SaaS product domain."

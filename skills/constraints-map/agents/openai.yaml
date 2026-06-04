@@ -1,0 +1,4 @@
+interface:
+  display_name: "Constraints Map"
+  short_description: "Surface operational domain limits"
+  default_prompt: "Use $constraints-map to analyze constraints in the mobility domain."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Domain Learning"
+  short_description: "Learn a product domain as a PM"
+  default_prompt: "Use $domain-learning to create a PM learning guide for the healthcare app domain."
