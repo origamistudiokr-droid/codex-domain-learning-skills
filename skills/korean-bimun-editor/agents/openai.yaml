@@ -1,0 +1,4 @@
+interface:
+  display_name: "Korean Bimun Editor"
+  short_description: "한국어 비문과 어색한 카피를 자연스럽게 첨삭해요"
+  default_prompt: "Use $korean-bimun-editor to find and revise awkward Korean landing page copy."

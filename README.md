@@ -1,6 +1,6 @@
-# Codex Domain Learning Skills
+# Codex PM and Korean Editing Skills
 
-PM and product strategy skills for learning a business, product, or industry domain.
+Codex skills for PM domain learning and natural Korean copy editing.
 
 ## Included Skills
 
@@ -12,6 +12,7 @@ PM and product strategy skills for learning a business, product, or industry dom
 - `constraints-map`: Explains operational, legal, technical, and trust constraints.
 - `user-behavior`: Analyzes repeated user psychology and behavior loops.
 - `industry-history`: Connects market history to current product patterns.
+- `korean-bimun-editor`: Reviews and rewrites Korean text for awkward phrasing, translationese, and unnatural copy.
 
 ## Install
 
@@ -29,6 +30,7 @@ paths:
 - skills/constraints-map
 - skills/user-behavior
 - skills/industry-history
+- skills/korean-bimun-editor
 ```
 
 Equivalent installer command:
@@ -44,7 +46,8 @@ python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-githu
   skills/metrics-map \
   skills/constraints-map \
   skills/user-behavior \
-  skills/industry-history
+  skills/industry-history \
+  skills/korean-bimun-editor
 ```
 
 After installing, restart Codex or open a new Codex session so the skills can be picked up.
@@ -53,4 +56,8 @@ After installing, restart Codex or open a new Codex session so the skills can be
 
 ```text
 [$domain-learning] Analyze the Goodoc healthcare app domain from a PM perspective.
+```
+
+```text
+[$korean-bimun-editor] 이 랜딩페이지 카피가 한국어로 자연스러운지 봐줘.
 ```
