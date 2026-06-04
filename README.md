@@ -31,6 +31,22 @@ paths:
 - skills/industry-history
 ```
 
+Equivalent installer command:
+
+```bash
+python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
+  --repo origamistudiokr-droid/codex-domain-learning-skills \
+  --path \
+  skills/domain-learning \
+  skills/stakeholder-map \
+  skills/vocabulary-map \
+  skills/money-flow \
+  skills/metrics-map \
+  skills/constraints-map \
+  skills/user-behavior \
+  skills/industry-history
+```
+
 After installing, restart Codex or open a new Codex session so the skills can be picked up.
 
 ## Example
